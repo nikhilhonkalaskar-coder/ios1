@@ -1,0 +1,9 @@
+{
+  "appId": "com.myapp.web",
+  "appName": "My Website App",
+  "webDir": "www",
+  "server": {
+    "url": "tbi1.alwaysdata.net",
+    "cleartext": true
+  }
+}
